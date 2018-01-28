@@ -18,6 +18,6 @@ Teams will create a computer model that can identify a range of nuclei across va
 Visit [DataScienceBowl.com](www.datasciencebowl.com) to:
 * Sign up to [receive news](https://datasciencebowl.com/contact/) about the competition
 * Learn about the [history of the Data Science Bowl](https://datasciencebowl.com/competitions/) and past competitions
-* Read our [latest insights](www.datasciencebowl.com/data-science-insights/) on emerging analytics techniques
+* Read our [latest insights](https://datasciencebowl.com/data-science-insights/) on emerging analytics techniques
 
 ![](https://storage.googleapis.com/kaggle-media/competitions/dsb-2018/dsb.jpg)
